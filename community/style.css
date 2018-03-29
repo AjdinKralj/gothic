@@ -28,14 +28,24 @@
 	background: none !important;
 }
 #chat .cm:nth-child(2n+1) {
-    background-color: none !important;
+    background: none !important;
 }
 #footer {
-	    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.39)), url(http://www.4usky.com/data/out/42/164367066-heavy-metal-wallpapers.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.39)), url(http://www.4usky.com/data/out/42/164367066-heavy-metal-wallpapers.jpg);
 }
 #playlist-button {
 	background: #121212 !important;
 }
 #history-button {
 	background: #121212 !important;
+}
+#room .app-right {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgb(0, 0, 0) ), url(https://i.pinimg.com/originals/b4/b7/d7/b4b7d72….jpg);
+}
+#media-panel {
+background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.39)), url(http://www.4usky.com/data/out/42/164367066-heavy-metal-wallpapers.jpg);
+    background-size: cover;	
+}
+#playlist-menu {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.39)), url(https://i.pinimg.com/originals/ef/ab/71/efab710….jpg) !important;
 }
